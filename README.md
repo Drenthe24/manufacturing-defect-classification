@@ -98,7 +98,16 @@ The main value lies in:
 
 - understanding process behavior  
 - identifying critical variables  
-- supporting better operational decisions  
+- supporting better operational decisions
+
+---
+
+## Example Use Case
+
+If the model predicts a defect probability > 0.8:
+- route part to additional inspection
+- log process parameters
+- trigger alert on production line
 
 ---
 
