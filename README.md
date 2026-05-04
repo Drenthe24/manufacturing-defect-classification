@@ -75,8 +75,8 @@ The model can be used as a **decision support system** to:
 manufacturing-defect-classification/
 ├── data/
 │   └── parts_production_data.csv
-├── notebooks/
-│   └── AutomaParts.ipynb
+├── notebook/
+│   └── AutomaParts_Git.ipynb
 └── README.md
 ```
 
